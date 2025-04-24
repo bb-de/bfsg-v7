@@ -1,6 +1,6 @@
 (function() {
   // WICHTIG: Ändern Sie diese URL zu Ihrer Widget-URL-Adresse (wo die standalone-widget.html hochgeladen wurde)
-  const widgetUrl = 'https://your-widget-host.com/standalone-widget.html';
+  const widgetUrl = 'https://cdn.jsdelivr.net/gh/bb-de/bfsg-v7@refs/heads/main/standalone-widget.html';
   
   // Widget erstellen und einfügen
   function createWidget() {
