@@ -1,6 +1,6 @@
 (function() {
   // WICHTIG: Ändern Sie diese URL zu Ihrer Widget-URL-Adresse (wo die standalone-widget.html hochgeladen wurde)
-  const widgetUrl = 'https://bb-de.github.io/bfsg-v7/';
+  const widgetUrl = 'https://bb-de.github.io/bfsg-v7/standalone-widget.html';
   
   // Widget erstellen und einfügen
   function createWidget() {
